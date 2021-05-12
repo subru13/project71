@@ -1,0 +1,78 @@
+body
+{
+    text-align: center;
+    color: #FFFFFF;
+    bottom: 0;
+    background-color: orange;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    font-family: cursive;
+}
+
+#principalpic{
+    width: 200px;
+    padding-top: 50px;
+}
+
+#details{
+    font-size: 35px;
+}
+
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#map iframe{
+    width: 100%;
+}
+
+#videos iframe
+{
+    width: 80%;
+}
+
+input
+{
+    background: grey;
+}
+
+.movie_head { 
+    font-size: 20px; 
+    padding: 6px 22px; 
+    border-radius: 10px; 
+    margin-bottom: 15px; 
+    width: 100%; 
+    display: inline-block; 
+} 
+
+.movie_head i { 
+    float: right; 
+} 
+
+.movie_text span { 
+    color: #ff7700; 
+}
+
+#gym{
+    width: 500px;
+    height: 500px;
+}
+
+#library{
+    width: 500px;
+    height: 500px;
+}
+
+#arts{
+    width: 500px;
+    height: 500px;
+}
